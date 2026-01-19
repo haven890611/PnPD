@@ -1,0 +1,2 @@
+python3 -W ignore train.py --model yolov13x --name yolov13x_single --data ultralytics/cfg/datasets/polyp_1.yaml --single-cls
+python3 -W ignore train.py --model yolov13x --name yolov13x --data ultralytics/cfg/datasets/polyp_2.yaml
