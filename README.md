@@ -19,7 +19,7 @@ with notebooks to run end-to-end inference, dataset surveys, and class-agnostic 
 ### `seg_branch/`
 Segmentation path used in the dual-path framework.  
 This folder includes multiple segmentation models:
-- **UNeXt**
+- **UNeXt-pytorch**
 - **UNetV2**
 - **EMCAD**
 - **Polyp-PVT**
@@ -37,5 +37,6 @@ Notebook for **class-agnostic evaluation**:
 ### `dataset.ipynb`
 Notebook to summarize **dataset diversity and composition**:
 - statistics and distributions of dataset attributes / categories.
+
 
 ---
